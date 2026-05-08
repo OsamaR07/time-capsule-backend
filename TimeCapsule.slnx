@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TimeCapsule.API/TimeCapsule.API.csproj" />
+  <Project Path="TimeCapsule.Application/TimeCapsule.Application.csproj" />
+  <Project Path="TimeCapsule.Domain/TimeCapsule.Domain.csproj" />
+  <Project Path="TimeCapsule.Infrastructure/TimeCapsule.Infrastructure.csproj" />
+</Solution>
